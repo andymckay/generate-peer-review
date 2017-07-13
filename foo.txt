@@ -1,0 +1,9 @@
+It's peer review time. You've been selected to give peer review feedback on a fellow Mozillian. Peer review is an opportunity to provide feedback to others that they can use for their own development.
+
+Please provide feedback for the following:
+
+%{people}
+
+Please try to complete this before July 21st.
+
+Thank you
