@@ -1,5 +1,5 @@
 var form = {
-    url: "https://docs.google.com/a/mozilla.com/d/e/1FAIpQLSdp_BdvSYKYcWPuijlFE9qyiN7WSbqJYT-X5IcYk7DAhJrKqg/viewform",
+    url: "https://docs.google.com/a/mozilla.com/forms/d/e/1FAIpQLSdp_BdvSYKYcWPuijlFE9qyiN7WSbqJYT-X5IcYk7DAhJrKqg/viewform",
     field: "entry.686687515"
 }
 var people = [
