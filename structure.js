@@ -100,7 +100,7 @@ var people = [
             "timezone": "Europe/London",
             "image": "https://phonebook.mozilla.org//pic.php?mail=mmacpherson@mozilla.com&type=thumb",
             "irc": "tofumatt",
-            "full": "Matthew McPherson",
+            "full": "Matthew MacPherson",
             "bugzilla_email": "tofumatt@mozilla.com",
             "bugzilla_nick": "tofumatt",
             "github": "tofumatt"
