@@ -87,7 +87,7 @@ var people = [
             "bugzilla_nick": "kumar",
             "github": "kumar303"
         },
-        "mat": {
+        "mpillard": {
             "timezone": "Europe/Paris",
             "image": "https://phonebook.mozilla.org//pic.php?mail=mpillard@mozilla.com&type=thumb",
             "irc": "mat",
