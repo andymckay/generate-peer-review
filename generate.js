@@ -1,14 +1,18 @@
 document.addEventListener("DOMContentLoaded", function(event) {
   let you = document.getElementById("you");
   let them = document.getElementById("them");
+  let everyone = [];
 
   for (let group of people) {
     for (let name in group) {
         let person = group[name];
-        let option = document.createElement("option");
-        option.value = person.bugzilla_nick;
-        option.textContent = person.full;
-        you.appendChild(option);
+        if (!everyone.includes(person.full)) {
+            everyone.push(person.full);
+            let option = document.createElement("option");
+            option.value = person.bugzilla_nick;
+            option.textContent = person.full;
+            you.appendChild(option);
+        }
     }
   }
 
